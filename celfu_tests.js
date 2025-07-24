@@ -11,9 +11,9 @@
 // If it is in the mods folder, you can just use the name of the file. (example_mod.js)
 // If it is hosted somewhere else, you can use the full URL, including the HTTPS://.
 behaviors.PRGASS = [
-    ["XX","CF","XX"],
-    ["CF","DL","CF"],
-    ["XX","CF","XX"]
+    ["XX","CH:head,body>prionic_gas","XX"],
+    ["CH:head,body>prionic_gas","DL","CH:head,body>prionic_gas"],
+    ["XX","CH:head,body>prionic_gas","XX"]
     ];
 // Adding elements:
 elements.prionic_gas = {
