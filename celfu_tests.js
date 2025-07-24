@@ -19,17 +19,12 @@ behaviors.PRGASS = [
 elements.prionic_gas = {
     color: "#ffffff",
     behavior: behaviors.PRGASS,
-    category: "celfu_tests",
+    category: "gases",
     state: "gas",
 };
 
-// Changing existing elements:
-elements.water.color = "#ff0000";
-elements.water.behavior = behaviors.WALL;
-
 // Removing elements:
 // Be aware, things may break
-delete elements.ketchup;
 
 // Adding behavior presets:
 behaviors.SELFDELETE = [
