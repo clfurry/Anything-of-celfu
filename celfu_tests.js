@@ -6,11 +6,12 @@ elements.prionic_ice = {
     state: "gas",
     hidden = true,
     tempHigh = -70,
-    tempLow = -500,
+    tempLow = -200,
     stateHigh = "prionic_gas",
-    stateLow = "",
+    stateLow = "prionic_ice",
     reactions = {},
-    density = 1300
+    density = 1300,
+    viscosity = 30000000000000
 };
 elements.prionic_gas = {
     color: "#6C9066",
@@ -25,5 +26,6 @@ elements.prionic_gas = {
     reactions = {"body": { elem1: "prionic_gas", elem2: "prionic_gas"},
         {"head": { elem1: "prionic_gas", elem2: "prionic_gas"}}
     },
-    density = 0.00058
+    density = 0.00058,
+    viscosity = 0.1
 };
