@@ -27,5 +27,7 @@ elements.prionic_gas = {
         {"head": { elem1: "prionic_gas", elem2: "prionic_gas"}}
     },
     density = 0.00058,
-    viscosity = 0.1
+    viscosity = 0.1,
+    alpha = 0.5,
+    glow = true
 };
