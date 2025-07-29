@@ -16,7 +16,7 @@ elements.prionic_ice = {
 elements.prionic_gas = {
     color: "#6C9066",
     behavior: behaviors.GAS,
-    category: "gases",
+    category: "Gases",
     state: "gas",
     hidden = false,
     tempHigh = 1000,
