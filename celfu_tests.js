@@ -1,5 +1,5 @@
 // testing mod
-elements.prionic_ice = {
+elements.prionicIce = {
     color: "#a1b298",
     behavior: behaviors.GAS,
     category: "states",
@@ -13,7 +13,7 @@ elements.prionic_ice = {
     density = 1300,
     viscosity = 30000000000000
 };
-elements.prionic_gas = {
+elements.prionicGas = {
     color: "#6c9066",
     behavior: behaviors.GAS,
     category: "Gases",
