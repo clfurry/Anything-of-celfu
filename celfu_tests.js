@@ -1,6 +1,6 @@
 // testing mod
 elements.prionic_ice = {
-    color: "#A1B298",
+    color: "#a1b298",
     behavior: behaviors.GAS,
     category: "States",
     state: "gas",
@@ -14,7 +14,7 @@ elements.prionic_ice = {
     viscosity = 30000000000000
 };
 elements.prionic_gas = {
-    color: "#6C9066",
+    color: "#6c9066",
     behavior: behaviors.GAS,
     category: "Gases",
     state: "gas",
