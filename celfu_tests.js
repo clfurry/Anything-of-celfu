@@ -2,7 +2,7 @@
 elements.prionic_ice = {
     color: "#a1b298",
     behavior: behaviors.GAS,
-    category: "States",
+    category: "states",
     state: "gas",
     hidden = true,
     tempHigh = -70,
@@ -23,7 +23,8 @@ elements.prionic_gas = {
     tempLow = -80,
     stateHigh = "ash",
     stateLow = "prionic_ice",
-    reactions = {"body": { elem1: "prionic_gas", elem2: "prionic_gas"},
+    reactions = {
+"body": { elem1: "prionic_gas", elem2: "prionic_gas"},
         {"head": { elem1: "prionic_gas", elem2: "prionic_gas"}}
     },
     density = 0.00058,
