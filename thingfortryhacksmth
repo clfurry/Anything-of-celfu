@@ -1,0 +1,463 @@
+{
+  "snapshot": {
+    "library": {
+      "268abe18-6b46-4f8f-bd93-028c0bff2a35": {
+        "entryId": "268abe18-6b46-4f8f-bd93-028c0bff2a35",
+        "library": {
+          "blueprintAssetId": "BSPCLG0pl2_G:d7dfe823-09da-4414-b5cc-97361c716050",
+          "parentBlueprintAssetId": "",
+          "originCardId": "BSPCLG0pl2_G",
+          "originDeckId": "uRMfc0Sj9Qwg"
+        },
+        "entryType": "actorBlueprint",
+        "title": "Empty blueprint",
+        "titleEdited": false,
+        "actorBlueprint": {
+          "components": {
+            "Body": {
+              "x": 0,
+              "y": 0,
+              "angle": 0,
+              "width": 0.98995,
+              "height": 0.98995,
+              "widthScale": 0.1,
+              "heightScale": 0.1,
+              "visible": true,
+              "relativeToCamera": false,
+              "relativeToCameraFix": true,
+              "layerName": "main",
+              "fixtures": [
+                {
+                  "shapeType": "polygon",
+                  "points": [-5, -5, -5, 5, 5, 5, 5, -5],
+                  "x": 0,
+                  "y": 0,
+                  "radius": 0
+                }
+              ],
+              "paddingTop": 0,
+              "paddingRight": 0,
+              "paddingBottom": 0,
+              "paddingLeft": 0,
+              "editorBounds": {
+                "minX": -5,
+                "maxX": 5,
+                "minY": -5,
+                "maxY": 5
+              },
+              "disabled": false
+            },
+            "Tags": {
+              "tagsString": "",
+              "disabled": false
+            },
+            "Drawing2": {
+              "initialFrame": 1,
+              "currentFrame": 1,
+              "framesPerSecond": 4,
+              "playMode": "still",
+              "loopStartFrame": -1,
+              "loopEndFrame": -1,
+              "opacity": 1,
+              "hash": "14478525748967574677",
+              "playing": false,
+              "loop": false,
+              "drawData": {
+                "color": [0.97264, 0.6367, 0.10546, 1],
+                "lineColor": [0.66036, 0.4, 0.93332, 1],
+                "gridSize": 0.71428,
+                "scale": 10,
+                "version": 3,
+                "fillPixelsPerUnit": 25.6,
+                "numTotalLayers": 1,
+                "framesBounds": [
+                  {
+                    "minX": -1.44175,
+                    "maxX": 3.7537,
+                    "minY": -2.89864,
+                    "maxY": 4.28206
+                  }
+                ],
+                "colors": [
+                  {
+                    "r": 0.07057,
+                    "g": 0.12548,
+                    "b": 0.12548,
+                    "a": 1
+                  }
+                ],
+                "selectedFrame": 1,
+                "layers": [
+                  {
+                    "title": "Layer 1",
+                    "id": "layer1",
+                    "isVisible": true,
+                    "isBitmap": false,
+                    "frames": [
+                      {
+                        "isLinked": false,
+                        "pathDataList": [
+                          {
+                            "p": [-1.44175, -0.03186, -0.99479, 0.56958],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.99479, 0.56958, -0.67128, 1.10839],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.67128, 1.10839, -0.41662, 1.71256],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.41662, 1.71256, -0.25033, 2.31459],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.25033, 2.31459, -0.15541, 2.88244],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.15541, 2.88244, -0.11791, 3.38146],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.11791, 3.38146, -0.12613, 3.78846],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.12613, 3.78846, -0.14146, 4.05106],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.14146, 4.05106, -0.20247, 4.28206],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.20247, 4.28206, 0.05223, 3.82628],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [0.05223, 3.82628, 0.52411, 3.11673],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [0.52411, 3.11673, 1.18972, 2.2568],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [1.18972, 2.2568, 1.82611, 1.54129],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [1.82611, 1.54129, 2.3351, 1.04018],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [2.3351, 1.04018, 2.72679, 0.68222],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [2.72679, 0.68222, 3.04258, 0.42024],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [3.04258, 0.42024, 3.26343, 0.24859],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [3.26343, 0.24859, 3.43805, 0.10433],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [3.43805, 0.10433, 3.6739, -0.08237],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [3.6739, -0.08237, 3.34379, -0.17278],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [3.34379, -0.17278, 2.43882, -0.06485],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [2.43882, -0.06485, 0.80344, 0.2732],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.86199, -2.53585, -1.21897, -2.46301],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-1.21897, -2.46301, -0.89873, -2.70473],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.89873, -2.70473, -0.60164, -2.8646],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [-0.60164, -2.8646, -0.50673, -2.89864],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [2.66227, -2.68853, 2.46579, -2.51902],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [2.46579, -2.51902, 2.17278, -2.34436],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [2.17278, -2.34436, 2.43973, -2.50623],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [2.43973, -2.50623, 2.826, -2.64018],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [2.826, -2.64018, 3.21107, -2.73894],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [3.21107, -2.73894, 3.4885, -2.79188],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [3.4885, -2.79188, 3.7537, -2.84122],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [3.7537, -2.84122, 3.54452, -2.82944],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [1.7774, -0.82581, 2.00275, -0.86813],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [2.00275, -0.86813, 1.65246, -0.92909],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [1.65246, -0.92909, 1.18437, -0.93268],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [1.18437, -0.93268, 0.59925, -0.90562],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [0.59925, -0.90562, 0.14802, -0.84806],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          },
+                          {
+                            "p": [0.14802, -0.84806, -0.10887, -0.81401],
+                            "s": 1,
+                            "f": true,
+                            "c": [0.07057, 0.12548, 0.12548, 1]
+                          }
+                        ],
+                        "fillImageBounds": {
+                          "minX": -37,
+                          "maxX": 97,
+                          "minY": -75,
+                          "maxY": 110
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              "physicsBodyData": {
+                "shapes": [
+                  {
+                    "p1": {
+                      "x": 5,
+                      "y": 5
+                    },
+                    "p2": {
+                      "x": -5,
+                      "y": -5
+                    },
+                    "p3": {
+                      "x": 0,
+                      "y": 0
+                    },
+                    "radius": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "rectangle"
+                  }
+                ],
+                "scale": 10,
+                "version": 2,
+                "zeroShapesInV1": false
+              },
+              "disabled": false
+            },
+            "Camera": {
+              "zoom": 1,
+              "angle": 0,
+              "disabled": true
+            }
+          }
+        },
+        "base64Png": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACAAQMAAAD58POIAAAABlBMVEUAAAASICAUL8q7AAAAAXRSTlMAQObYZgAAAY5JREFUeJztlT1uxCAQhbFc0IU2RWRfI4W1e6WNUsSFFTiapVyELq3LLVZL+JnB8IjkItouSDbmM2bezDBYiN/aM4KZHy6p66407m+plww0gXFN/bejN2eTvnSOZn7SCs7SmvfUqzuvTQ/jBkAbBvTpDfVeEVgE/+3BTTm3lWPpXE59bLoFRugK+Ov1YQL/3HqHY9rKXD6aQzClsQ/JVwKnePe1sNIWHuL97BeQa5obbtL5nT2aCKQRKUT0cZoYDSxkP4BYIrT9O8vKOBPcS37DhaIMPXClj+wVaWerO8hFN5C1nG5FVi0Aco2dKawyyFaTM4VVdmZBUJS6rWWQu7sMOr52GeTuLoPALoPcPSFYCvACMmJAShniCWREUMqIEZIGgCrGQoocaQJmz0UGpS7RGzgJPah0hShXuiIodYlurXUFUOkKYKyBrYUGMCGYK+BTB0e2rYUGYAHUQn22a6EeqAYIAAOCCcClATOC7Qi8WQDv6xH4MAC0OAJ3BM1f8fg32QB0pQGYlRYIg6BoPzNXj7lCfvA9AAAAAElFTkSuQmCC"
+      }
+    },
+    "actors": [
+      {
+        "actorId": "1",
+        "parentEntryId": "268abe18-6b46-4f8f-bd93-028c0bff2a35",
+        "bp": {
+          "components": {
+            "Body": {
+              "x": -0.75,
+              "y": -3,
+              "angle": 0,
+              "widthScale": 0.1,
+              "heightScale": 0.1
+            },
+            "Drawing2": {
+              "initialFrame": 1
+            }
+          }
+        }
+      },
+      {
+        "actorId": "2",
+        "parentEntryId": "268abe18-6b46-4f8f-bd93-028c0bff2a35",
+        "bp": {
+          "components": {
+            "Body": {
+              "x": 0.25,
+              "y": -4.5,
+              "angle": 0,
+              "widthScale": 0.1,
+              "heightScale": 0.1
+            },
+            "Drawing2": {
+              "initialFrame": 1
+            }
+          }
+        }
+      },
+      {
+        "actorId": "3",
+        "parentEntryId": "268abe18-6b46-4f8f-bd93-028c0bff2a35",
+        "bp": {
+          "components": {
+            "Body": {
+              "x": 0.5,
+              "y": -4.5,
+              "angle": 0,
+              "widthScale": 0.1,
+              "heightScale": 0.1
+            },
+            "Drawing2": {
+              "initialFrame": 1
+            }
+          }
+        }
+      }
+    ],
+    "actorBlueprintInherit": true,
+    "sceneProperties": {
+      "backgroundColor": {
+        "r": 0.96078,
+        "g": 0.62745,
+        "b": 0.59215,
+        "a": 1
+      },
+      "coordinateSystemVersion": 2,
+      "clock": {
+        "tempo": 120,
+        "beatsPerBar": 4,
+        "stepsPerBeat": 4
+      }
+    },
+    "linkTargetDeckIds": []
+  },
+  "isChanged": true
+}
